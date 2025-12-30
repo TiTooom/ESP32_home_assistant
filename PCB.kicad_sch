@@ -6435,6 +6435,17 @@
 		)
 		(uuid "31c1af05-327e-429d-a6f5-fcb50a8b61f2")
 	)
+	(text "WARNING !\nGPIO 47 & 48\nare reserved PSRAM\nwhen N8 not N2"
+		(exclude_from_sim no)
+		(at 367.284 244.856 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "37128d59-c1df-41d2-9c40-c26c5615497d")
+	)
 	(text "GREEN = Done\n"
 		(exclude_from_sim no)
 		(at 314.706 256.286 0)
@@ -6486,6 +6497,17 @@
 			)
 		)
 		(uuid "47d2fe83-accb-4a92-9528-c11ec3ce274e")
+	)
+	(text "becareful S8050\n2 could be 1\n1 could be 2\n3 don't change\nhere 2 is 1 & 1 is 2\n(need a modification)\n\"dead bug\" method"
+		(exclude_from_sim no)
+		(at 167.64 121.412 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "480d3c43-2c76-4cac-9fcb-b882cb2ce274")
 	)
 	(text "Auto source selection"
 		(exclude_from_sim no)

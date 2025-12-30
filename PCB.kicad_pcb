@@ -17207,17 +17207,6 @@
 		(layer "F.Fab")
 		(uuid "968302cf-bbf2-4262-b541-fdb5bab50b69")
 	)
-	(gr_rect
-		(start 132.2 72.1)
-		(end 154.2 75.1)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "F.Fab")
-		(uuid "bb5e79c5-4de2-46ee-a1f7-44f60a9434b5")
-	)
 	(gr_circle
 		(center 132 129)
 		(end 134 129)
